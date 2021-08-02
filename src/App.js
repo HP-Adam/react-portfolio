@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Top from "./components/Nav";
 import About from "./components/About";
 import Projects from "./components/Projects";
+import Contact from "./components/Contact";
 
 function App() {
   const [selectedTopic, setSelectedTopic] = useState("about");
@@ -12,7 +13,7 @@ function App() {
       <main>
         {selectedTopic === "about" && <About />}
         {selectedTopic === "projects" && <Projects />}
-        {/* contact */}
+        {selectedTopic === "contact" && <Contact />}
       </main>
       {/** footer */}
     </div>
