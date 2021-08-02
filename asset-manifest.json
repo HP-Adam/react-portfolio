@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.4c63c260.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.4c63c260.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.74c1ab3b.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.74c1ab3b.js.map",
+    "static/css/2.4be38407.chunk.css": "/react-portfolio/static/css/2.4be38407.chunk.css",
+    "static/js/2.f64a349b.chunk.js": "/react-portfolio/static/js/2.f64a349b.chunk.js",
+    "static/js/2.f64a349b.chunk.js.map": "/react-portfolio/static/js/2.f64a349b.chunk.js.map",
+    "static/js/3.52ede3db.chunk.js": "/react-portfolio/static/js/3.52ede3db.chunk.js",
+    "static/js/3.52ede3db.chunk.js.map": "/react-portfolio/static/js/3.52ede3db.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/react-portfolio/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-portfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f64a349b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f64a349b.chunk.js.LICENSE.txt",
+    "static/media/beer_app.PNG": "/react-portfolio/static/media/beer_app.b72e9a1d.PNG",
+    "static/media/marvel-quiz.png": "/react-portfolio/static/media/marvel-quiz.f0b35e43.png",
+    "static/media/profile.jpg": "/react-portfolio/static/media/profile.77133ea8.jpg",
+    "static/media/top_bun.png": "/react-portfolio/static/media/top_bun.86a97da3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74c1ab3b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.f64a349b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4c63c260.chunk.js"
+  ]
+}
